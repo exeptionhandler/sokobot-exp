@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'com.github.johnrengelman.shadow' version '5.2.0'
+}
+
+group 'com.polymars'
+version '1.1'
+
+mainClassName = "Bot"
+sourceCompatibility = 1.8;
+
+repositories {
+    mavenCentral()
+    jcenter()
+}
+
+dependencies {
+    compile 'net.dv8tion:JDA:4.1.1_162'
+    compile 'com.vdurmont:emoji-java:5.1.1'
+}
