@@ -3,8 +3,8 @@
 Sokobot es un bot de Discord escrito con [JDA](https://github.com/DV8FromTheWorld/JDA) que te deja jugar [Sokoban](https://en.wikipedia.org/wiki/Sokoban), el clásico juego de rompecabezas de empujar cajas.
 
 ## Capturas de Pantalla
-![Level 1](https://cdn.discordapp.com/attachments/670425377503707146/727568442034487316/sokobot_v1.1.gif)
-![Level 2](https://cdn.discordapp.com/attachments/670425377503707146/727567694597193829/sokobot_v1.1_.gif)
+![Level 1](https://a.fsdn.com/con/app/proj/sokobot-esp/screenshots/sokobot_v1.1.gif/max/max/1) https://a.fsdn.com/con/app/proj/sokobot-esp/screenshots/sokobot_v1.1.gif/max/max/1
+![Level 2](https://a.fsdn.com/con/app/proj/sokobot-esp/screenshots/sokobot_v1.1_.gif/max/max/1)) https://a.fsdn.com/con/app/proj/sokobot-esp/screenshots/sokobot_v1.1_.gif/max/max/1
 
 ## Características
 ### Niveles Infinitos
