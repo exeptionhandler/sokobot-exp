@@ -42,3 +42,6 @@ El archivo .jar compilado se ubicará en ``build/libs``.
 ## Contribuir
 Si quiere contribuir contribuya [aquí](https://github.com/PolyMarsDev/Sokobot)
 
+
+NEW VERSION MADE BY ME:
+[HERE](https://github.com/exeptionhandler/Sokobot-Reborn)
