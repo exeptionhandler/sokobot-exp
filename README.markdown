@@ -44,4 +44,4 @@ Si quiere contribuir contribuya [aquí](https://github.com/PolyMarsDev/Sokobot)
 
 
 NEW VERSION MADE BY ME:
-[HERE](https://github.com/exeptionhandler/Sokobot-Reborn)
+[HERE](https://github.com/exeptionhandler/Sokoromi)
